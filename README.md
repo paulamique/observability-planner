@@ -6,7 +6,7 @@ a given observatory.
 Given an object name (searched in SIMBAD) or its coordinates, a date and an observatory,
 it calculates:
 
-- sunset, sunrise and civil, nautical and astronomical twilights
+- sunset and sunrise
 - the altitude of the target during the night, when it can be observed and the best time
 - the Moon phase, moonrise and moonset, and the distance between the Moon and the target
 - a plot of the altitude of the target and the Moon along the night
